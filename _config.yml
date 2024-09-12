@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "dog.jpg"
-  name             : "Lai Song"
+  name             : "Lai Song(右一)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student in CityU"
   location         : "Hong Kng"
   employer         : "City University of Hong Kong"
   uri              : # URL
